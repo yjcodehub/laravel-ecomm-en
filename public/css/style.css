@@ -1,3 +1,6 @@
-.custome-login{
+.custome-login,.custome-product{
   height: calc( 100vh - 112px);
+}
+.carousel-caption{
+  background-color: rgba(0, 0, 0, 0.5);
 }
